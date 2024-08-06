@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Poem </title>
+</head>
+<body><center>
+<h1>Rhymes</h1>
+<img src="twinkle1.jpg" width="200" height="200"/>
+<p style="color:red;">
+ Twinkle, twinkle, little star, <br>
+<b><i> how I wonder what you are!</b></i><br>
+ Up above the world so high, <br>
+ Like a diamond in the sky!
+</p>
+</center>
+</body>
+</html>
